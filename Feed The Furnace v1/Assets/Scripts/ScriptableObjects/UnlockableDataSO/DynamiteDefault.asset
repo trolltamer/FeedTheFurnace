@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f7bbd5b3463649d46b38b67b18f5f2be, type: 3}
+  m_Name: DynamiteDefault
+  m_EditorClassIdentifier: 
+  UnlockableSprite: {fileID: 21300000, guid: d39cb1f997258f34eaae65cc5854fe19, type: 3}
+  UnlockableGameObject: {fileID: 0}
+  Unlocked: 1
+  Price: 0
