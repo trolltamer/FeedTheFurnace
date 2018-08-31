@@ -2,7 +2,7 @@
 A game for mobile and desktop developed in Unity using C#
 
 
-C# files can be found in Assets->Scripts
+C# files can be found in Assets->Scripts->*
 
 The game is built in the Unity engine, all classes contained in this project not derived directly from Object are derived from one of two Unity classes MonoBehavior, or ScriptableObject. Classes that inherit from MonoBehavior get call backs to several methods including the Update() method that is called every frame and can be attached as components to GameObjects that are instantiated in Scenes or stored in Prefabs. ScriptableObject derived classes can be instantiated through engine menus or scripts and are bound to asset files to contain data or functions, but cannot be placed in scenes. 
 
